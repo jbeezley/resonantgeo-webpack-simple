@@ -13,8 +13,7 @@
     },
     "author": {
       "type": "string",
-      "label": "Author",
-      "default": "Kitware, Inc."
+      "label": "Author"
     },
     "license": {
       "type": "string",

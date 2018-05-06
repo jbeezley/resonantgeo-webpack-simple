@@ -42,6 +42,7 @@ module.exports = {
   },
   resolve: {
     alias: {
+      resonantgeo: 'resonantgeo/src',
       'vue$': 'vue/dist/vue.esm.js'
     },
     extensions: ['*', '.js', '.vue', '.json']
